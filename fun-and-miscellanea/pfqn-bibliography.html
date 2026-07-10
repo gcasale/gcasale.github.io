@@ -122,13 +122,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 				<nav role="navigation">
 					<div class="nav menu clearfix"><ul id="menu-main" class="menu"><li id="nav-menu-item-1293" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="../index.html" class="menu-link main-menu-link">Home</a></li>
 <li id="nav-menu-item-2173" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a target="_blank" href="https://www.doc.ic.ac.uk/~gcasale/content/cvcasaleeng_ac.pdf#new_tab" class="menu-link main-menu-link">CV</a></li>
-<li id="nav-menu-item-2668" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1686 current_page_item"><a href="https://imperial-qore.github.io/" class="menu-link main-menu-link">Research</a></li>
+<li id="nav-menu-item-2668" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a href="https://imperial-qore.github.io/" class="menu-link main-menu-link">Research</a></li>
 <li id="nav-menu-item-2756" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a href="https://imperial-qore.github.io/" class="menu-link main-menu-link">Group</a></li>
 <li id="nav-menu-item-2275" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a target="_blank" href="http://dblp.uni-trier.de/pers/hd/c/Casale:Giuliano#new_tab" class="menu-link main-menu-link">Publications</a></li>
 <li id="nav-menu-item-3147" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a href="../recent-talks/index.html" class="menu-link main-menu-link">Talks</a></li>
 <li id="nav-menu-item-2794" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.youtube.com/playlist?list=PLro4AfYyf7M5u4b8OX2OgLVAV9Yuwkt92" class="menu-link main-menu-link">Videos</a></li>
 <li id="nav-menu-item-1296" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a href="https://github.com/imperial-qore/" class="menu-link main-menu-link">Software</a></li>
-<li id="nav-menu-item-1596" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page"><a href="../fun-and-miscellanea/index.html" class="menu-link main-menu-link">Misc</a></li>
+<li id="nav-menu-item-1596" class="main-menu-item  menu-item-even menu-item-depth-0  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1686 current_page_item"><a href="../fun-and-miscellanea/index.html" class="menu-link main-menu-link">Misc</a></li>
 </ul></div>				</nav>					
 			</div>
 			<!-- CLOSE HEADER -->
@@ -170,10 +170,19 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 .pfqn-sum{color:#555;font-weight:normal}
 .pfqn-notitle{color:inherit}
 .pfqn-backtop{font-size:12px;float:right;font-weight:normal}
+.pfqn-viewtoggle{margin:0 0 1.2em}
+.pfqn-viewbtn{font:inherit;padding:.35em .9em;border:1px solid #bbb;background:#f6f6f6;color:#333;cursor:pointer}
+.pfqn-viewbtn+.pfqn-viewbtn{border-left:none}
+.pfqn-viewbtn.is-active{background:#333;color:#fff;border-color:#333}
+.pfqn-flat{counter-reset:pfqn}
 @media (max-width:600px){.pfqn-toc{columns:1;-webkit-columns:1}}
 </style>
 
 <p class="pfqn-disclaimer"><strong>Disclaimer:</strong> This bibliography is maintained using Claude Opus 4.8 based on my personal collection of PDF files, accumulated over more than 20 years. The entries, one-line summaries, and publisher links are generated automatically and may contain errors or omissions.</p>
+<div class="pfqn-viewtoggle">
+<button id="pfqn-view-theme" class="pfqn-viewbtn is-active" type="button">By theme</button><button id="pfqn-view-year" class="pfqn-viewbtn" type="button">By year</button>
+</div>
+<div id="pfqn-flat" class="pfqn-flat" hidden></div>
 <ul class="pfqn-toc">
 <li><a href="#normalizing-constant">Normalizing-Constant / Convolution Algorithms</a> <span class="pfqn-count">(44)</span></li>
 <li><a href="#mean-value-analysis">Mean Value Analysis (Exact)</a> <span class="pfqn-count">(31)</span></li>
@@ -1547,6 +1556,41 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
   <div class="pfqn-sum">Reviews the application and impact of performance evaluation methods in industry.</div>
 </div>
 </div>
+<script>
+(function(){
+  var byTheme=document.getElementById('pfqn-view-theme'),
+      byYear=document.getElementById('pfqn-view-year'),
+      flat=document.getElementById('pfqn-flat'),
+      toc=document.querySelector('.pfqn-toc'),
+      secs=document.querySelectorAll('.pfqn-sec'),
+      built=false;
+  function yearOf(entry){
+    var ref=entry.querySelector('.pfqn-ref'),
+        m=ref&&ref.textContent.match(/\((\d{4})\)/);
+    return m?parseInt(m[1],10):999999;
+  }
+  function build(){
+    var entries=[];
+    secs.forEach(function(s){
+      s.querySelectorAll('.pfqn-entry').forEach(function(e){entries.push(e);});
+    });
+    entries.map(function(e,i){return {e:e,y:yearOf(e),i:i};})
+           .sort(function(a,b){return a.y-b.y||a.i-b.i;})
+           .forEach(function(o){flat.appendChild(o.e.cloneNode(true));});
+    built=true;
+  }
+  function show(year){
+    if(year&&!built)build();
+    flat.hidden=!year;
+    toc.style.display=year?'none':'';
+    secs.forEach(function(s){s.style.display=year?'none':'';});
+    byYear.classList.toggle('is-active',year);
+    byTheme.classList.toggle('is-active',!year);
+  }
+  byTheme.addEventListener('click',function(){show(false);});
+  byYear.addEventListener('click',function(){show(true);});
+})();
+</script>
 								</section> <!-- end article section -->
 
 							</article> <!-- end article -->
