@@ -1,0 +1,10 @@
+@article{DBLP:journals/tmc/TuliCJ23,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {SplitPlace: AI Augmented Splitting and Placement of Large-Scale Neural Networks in Mobile Edge Environments},
+  journal   = {IEEE Trans. Mob. Comput.},
+  volume    = {22},
+  number    = {9},
+  pages     = {5539--5554},
+  year      = {2023},
+  doi       = {10.1109/TMC.2022.3177569}
+}

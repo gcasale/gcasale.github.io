@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/icdcsw/CasaleKK11,
+  author    = {Giuliano Casale and Stephan Kraft and Diwakar Krishnamurthy},
+  title     = {A Model of Storage I/O Performance Interference in Virtualized Systems},
+  booktitle = {Proc. of ICDCS Workshops},
+  pages     = {34--39},
+  year      = {2011},
+  doi       = {10.1109/ICDCSW.2011.46}
+}

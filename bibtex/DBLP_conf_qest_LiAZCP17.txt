@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/LiAZCP17,
+  author    = {Chen Li and Taghreed Altamimi and Mana Hassanzadeh Zargari and Giuliano Casale and Dorina C. Petriu},
+  title     = {Tulsa: A Tool for Transforming UML to Layered Queueing Networks for Performance Analysis of Data Intensive Applications},
+  booktitle = {Proc. of QEST},
+  pages     = {295--299},
+  year      = {2017},
+  doi       = {10.1007/978-3-319-66335-7_18}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/ifip6-3/CasaleGS10,
+  author    = {Giuliano Casale and Marco Gribaudo and Giuseppe Serazzi},
+  title     = {Tools for Performance Evaluation of Computer Systems: Historical Evolution and Perspectives},
+  booktitle = {Proc. of PERFORM},
+  pages     = {24--37},
+  year      = {2010},
+  doi       = {10.1007/978-3-642-25575-5_3}
+}

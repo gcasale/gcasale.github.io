@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/ZhangCS08,
+  author    = {Eddy Z. Zhang and Giuliano Casale and Evgenia Smirni},
+  title     = {KPC-Toolbox: best recipes toward automatization of workload fitting},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {36},
+  number    = {2},
+  pages     = {75--78},
+  year      = {2008},
+  doi       = {10.1145/1453175.1453189}
+}

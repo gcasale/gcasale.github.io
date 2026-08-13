@@ -1,0 +1,6 @@
+@article{chen2026carss,
+  author    = {Yichong Chen and Manuel Roveri and Shreshth Tuli and Giuliano Casale},
+  title     = {CARSS: Leveraging online arrival forecasting and co-simulation for adaptive scheduling},
+  journal   = {IEEE Trans. Parallel Distributed Syst.},
+  year      = {2026}
+}

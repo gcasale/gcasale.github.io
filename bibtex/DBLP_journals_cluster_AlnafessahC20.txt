@@ -1,0 +1,10 @@
+@article{DBLP:journals/cluster/AlnafessahC20,
+  author    = {Ahmad Alnafessah and Giuliano Casale},
+  title     = {Artificial neural networks based techniques for anomaly detection in Apache Spark},
+  journal   = {Clust. Comput.},
+  volume    = {23},
+  number    = {2},
+  pages     = {1345--1360},
+  year      = {2020},
+  doi       = {10.1007/s10586-019-02998-y}
+}

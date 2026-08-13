@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wsc/Casale20,
+  author    = {Giuliano Casale},
+  title     = {Integrated Performance Evaluation of Extended Queueing Network Models with Line},
+  booktitle = {Proc. of WSC},
+  pages     = {2377--2388},
+  year      = {2020},
+  doi       = {10.1109/WSC48552.2020.9383931}
+}

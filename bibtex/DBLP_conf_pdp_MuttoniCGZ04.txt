@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/pdp/MuttoniCGZ04,
+  author    = {Lorenzo Muttoni and Giuliano Casale and Federico Granata and Stefano Zanero},
+  title     = {Optimal Number of Nodes for Computation in Grid Environments},
+  booktitle = {Proc. of PDP},
+  pages     = {282--289},
+  year      = {2004},
+  doi       = {10.1109/EMPDP.2004.1271457}
+}

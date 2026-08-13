@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/cmg/CremonesiC07,
+  author    = {Paolo Cremonesi and Giuliano Casale},
+  title     = {How to Select Significant Workloads in Performance Models},
+  booktitle = {Proc. of Int. CMG Conference},
+  pages     = {183--192},
+  year      = {2007},
+  doi       = {http://www.cmg.org/?s2member_file_download=/proceedings/2007/7172.pdf}
+}

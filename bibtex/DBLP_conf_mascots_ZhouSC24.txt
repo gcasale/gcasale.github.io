@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/ZhouSC24,
+  author    = {Yaqi Zhou and Matthew Sheldon and Giuliano Casale},
+  title     = {Approximating Closed Queueing Networks in Semi-Markov Random Environments},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {1--8},
+  year      = {2024},
+  doi       = {10.1109/MASCOTS64422.2024.10786512}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/taas/WangYCCF26,
+  author    = {Runan Wang and Guangba Yu and Giuliano Casale and Pengfei Chen and Antonio Filieri},
+  title     = {Fine-grained Tracing for Performance Anomaly Diagnosis of Serverless Functions},
+  journal   = {ACM Trans. Auton. Adapt. Syst.},
+  volume    = {21},
+  number    = {1},
+  pages     = {5:1--5:29},
+  year      = {2026},
+  doi       = {10.1145/3785005}
+}

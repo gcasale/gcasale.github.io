@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleS12,
+  author    = {Giuliano Casale and Evgenia Smirni},
+  title     = {KPC-toolbox: fitting Markovian arrival processes and phase-type distributions with MATLAB},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {39},
+  number    = {4},
+  pages     = {47},
+  year      = {2012},
+  doi       = {10.1145/2185395.2185438}
+}

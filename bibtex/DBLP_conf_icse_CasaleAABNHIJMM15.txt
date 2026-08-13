@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/icse/CasaleAABNHIJMM15,
+  author    = {Giuliano Casale and Danilo Ardagna and Matej Artac and Franck Barbier and Elisabetta Di Nitto and Alexis Henry and Gabriel Iuhasz and Christophe Joubert and José Merseguer and Victor Ion Munteanu and Juan Fernando Pérez and Dana Petcu and Matteo Rossi and Craig Sheridan and Ilias Spais and Daniel Vladuic},
+  title     = {DICE: Quality-Driven Development of Data-Intensive Cloud Applications},
+  booktitle = {Proc. of MiSE@ICSE},
+  pages     = {78--83},
+  year      = {2015},
+  doi       = {10.1109/MiSE.2015.21}
+}

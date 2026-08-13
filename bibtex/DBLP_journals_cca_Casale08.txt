@@ -1,0 +1,10 @@
+@article{DBLP:journals/cca/Casale08,
+  author    = {Giuliano Casale},
+  title     = {An application of exact linear algebra to capacity planning models},
+  journal   = {ACM Commun. Comput. Algebra},
+  volume    = {42},
+  number    = {4},
+  pages     = {202--205},
+  year      = {2008},
+  doi       = {10.1145/1504341.1504345}
+}

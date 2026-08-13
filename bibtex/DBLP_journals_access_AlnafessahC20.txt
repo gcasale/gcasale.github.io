@@ -1,0 +1,9 @@
+@article{DBLP:journals/access/AlnafessahC20,
+  author    = {Ahmad Alnafessah and Giuliano Casale},
+  title     = {TRACK-Plus: Optimizing Artificial Neural Networks for Hybrid Anomaly Detection in Data Streaming Systems},
+  journal   = {IEEE Access},
+  volume    = {8},
+  pages     = {146613--146626},
+  year      = {2020},
+  doi       = {10.1109/ACCESS.2020.3015346}
+}

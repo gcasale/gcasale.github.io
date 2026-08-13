@@ -1,0 +1,10 @@
+@article{DBLP:journals/sosym/KraftCKGK13,
+  author    = {Stephan Kraft and Giuliano Casale and Diwakar Krishnamurthy and Des Greer and Peter Kilpatrick},
+  title     = {Performance models of storage contention in cloud environments},
+  journal   = {Softw. Syst. Model.},
+  volume    = {12},
+  number    = {4},
+  pages     = {681--704},
+  year      = {2013},
+  doi       = {10.1007/s10270-012-0227-2}
+}

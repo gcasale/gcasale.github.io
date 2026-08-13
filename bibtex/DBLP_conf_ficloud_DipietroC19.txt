@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/ficloud/DipietroC19,
+  author    = {Salvatore Dipietro and Giuliano Casale},
+  title     = {SD: A Divergence-Based Estimation Method for Service Demands in Cloud Systems},
+  booktitle = {Proc. of FiCloud},
+  pages     = {197--204},
+  year      = {2019},
+  doi       = {10.1109/FiCloud.2019.00035}
+}

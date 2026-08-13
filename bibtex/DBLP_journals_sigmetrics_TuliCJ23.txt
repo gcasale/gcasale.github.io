@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/TuliCJ23,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {Learning to Dynamically Select Cost Optimal Schedulers in Cloud Computing Environments},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {50},
+  number    = {4},
+  pages     = {29--31},
+  year      = {2023},
+  doi       = {10.1145/3595244.3595255}
+}

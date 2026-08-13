@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/sac/Casale05,
+  author    = {Giuliano Casale},
+  title     = {Combining queueing networks and web usage mining techniques for web performance analysis},
+  booktitle = {Proc. of SAC},
+  pages     = {1699--1703},
+  year      = {2005},
+  doi       = {10.1145/1066677.1067061}
+}

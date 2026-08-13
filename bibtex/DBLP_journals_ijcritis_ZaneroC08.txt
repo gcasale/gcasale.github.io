@@ -1,0 +1,10 @@
+@article{DBLP:journals/ijcritis/ZaneroC08,
+  author    = {Stefano Zanero and Giuliano Casale},
+  title     = {GIVS: integrity validation for grid security},
+  journal   = {Int. J. Crit. Infrastructures},
+  volume    = {4},
+  number    = {3},
+  pages     = {319--333},
+  year      = {2008},
+  doi       = {10.1504/IJCIS.2008.017444}
+}

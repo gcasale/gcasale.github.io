@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/cnsm/ChenRTC23,
+  author    = {Yichong Chen and Manuel Roveri and Shreshth Tuli and Giuliano Casale},
+  title     = {Coupling QoS Co-Simulation with Online Adaptive Arrival Forecasting},
+  booktitle = {Proc. of CNSM},
+  pages     = {1--9},
+  year      = {2023},
+  doi       = {10.23919/CNSM59352.2023.10327805}
+}

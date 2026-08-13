@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/firb-perf/CasaleCSZ05,
+  author    = {Giuliano Casale and Paolo Cremonesi and Giuseppe Serazzi and Stefano Zanero},
+  title     = {Performance Issues in Video Streaming Environments},
+  booktitle = {Proc. of FIRB-Perf},
+  pages     = {3--14},
+  year      = {2005},
+  doi       = {10.1109/FIRB-PERF.2005.14}
+}

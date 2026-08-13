@@ -1,0 +1,10 @@
+@article{DBLP:journals/tits/SheldonPC25,
+  author    = {Matthew Sheldon and Dario Paccagnan and Giuliano Casale},
+  title     = {Competitive Analysis of Vehicle-Sharing Systems With Cournot Queueing Games},
+  journal   = {IEEE Trans. Intell. Transp. Syst.},
+  volume    = {26},
+  number    = {8},
+  pages     = {12039--12048},
+  year      = {2025},
+  doi       = {10.1109/TITS.2025.3565904}
+}

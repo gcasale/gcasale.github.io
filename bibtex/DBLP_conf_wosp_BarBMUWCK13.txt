@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/BarBMUWCK13,
+  author    = {Piotr Bar and Rudy Benfredj and Jonathon Marks and Deyan Ulevinov and Bartosz D. Wozniak and Giuliano Casale and William J. Knottenbelt},
+  title     = {Towards a monitoring feedback loop for cloud applications},
+  booktitle = {Proc. of MultiCloud@ICPE},
+  pages     = {43--44},
+  year      = {2013},
+  doi       = {10.1145/2462326.2462336}
+}

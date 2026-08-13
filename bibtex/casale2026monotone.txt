@@ -1,0 +1,6 @@
+@article{casale2026monotone,
+  author    = {Giuliano Casale and Jonathan Leake and Matthew Sheldon},
+  title     = {Monotone performance measures in closed multiclass queueing networks},
+  journal   = {Perform. Evaluation},
+  year      = {2026}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tsc/TuliGGBCJ23,
+  author    = {Shreshth Tuli and Sukhpal Singh Gill and Peter Garraghan and Rajkumar Buyya and Giuliano Casale and Nicholas R. Jennings},
+  title     = {START: Straggler Prediction and Mitigation for Cloud Computing Environments Using Encoder LSTM Networks},
+  journal   = {IEEE Trans. Serv. Comput.},
+  volume    = {16},
+  number    = {1},
+  pages     = {615--627},
+  year      = {2023},
+  doi       = {10.1109/TSC.2021.3129897}
+}

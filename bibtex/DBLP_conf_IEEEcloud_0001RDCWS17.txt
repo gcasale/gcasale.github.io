@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/IEEEcloud/0001RDCWS17,
+  author    = {Feng Yan and Lihua Ren and Daniel J. Dubois and Giuliano Casale and Jiawei Wen and Evgenia Smirni},
+  title     = {How to Supercharge the Amazon T2: Observations and Suggestions},
+  booktitle = {Proc. of CLOUD},
+  pages     = {278--285},
+  year      = {2017},
+  doi       = {10.1109/CLOUD.2017.43}
+}

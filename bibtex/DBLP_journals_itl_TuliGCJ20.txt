@@ -1,0 +1,9 @@
+@article{DBLP:journals/itl/TuliGCJ20,
+  author    = {Shreshth Tuli and Sukhpal Singh Gill and Giuliano Casale and Nicholas R. Jennings},
+  title     = {iThermoFog: IoT-Fog based automatic thermal profile creation for cloud data centers using artificial intelligence techniques},
+  journal   = {Internet Technol. Lett.},
+  volume    = {3},
+  number    = {5},
+  year      = {2020},
+  doi       = {10.1002/itl2.198}
+}

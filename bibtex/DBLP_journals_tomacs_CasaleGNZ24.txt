@@ -1,0 +1,10 @@
+@article{DBLP:journals/tomacs/CasaleGNZ24,
+  author    = {Giuliano Casale and Yicheng Gao and Zifeng Niu and Lulai Zhu},
+  title     = {LN: A Flexible Algorithmic Framework for Layered Queueing Network Analysis},
+  journal   = {ACM Trans. Model. Comput. Simul.},
+  volume    = {34},
+  number    = {3},
+  pages     = {17:1--17:26},
+  year      = {2024},
+  doi       = {10.1145/3633457}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/TuliC22,
+  author    = {Shreshth Tuli and Giuliano Casale},
+  title     = {Optimizing the Performance of Fog Computing Environments Using AI and Co-Simulation},
+  booktitle = {Proc. of ICPE (Companion)},
+  pages     = {25--28},
+  year      = {2022},
+  doi       = {10.1145/3491204.3527490}
+}

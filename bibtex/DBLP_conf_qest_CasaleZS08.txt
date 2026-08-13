@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/CasaleZS08,
+  author    = {Giuliano Casale and Eddy Z. Zhang and Evgenia Smirni},
+  title     = {KPC-Toolbox: Simple Yet Effective Trace Fitting Using Markovian Arrival Processes},
+  booktitle = {Proc. of QEST},
+  pages     = {83--92},
+  year      = {2008},
+  doi       = {10.1109/QEST.2008.33}
+}

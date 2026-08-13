@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/icse/ArdagnaNCPMMMGB12,
+  author    = {Danilo Ardagna and Elisabetta Di Nitto and Giuliano Casale and Dana Petcu and Parastoo Mohagheghi and Sébastien Mosser and Peter Matthews and Anke Gericke and Cyril Ballagny and Francesco D'Andria and Cosmin-Septimiu Nechifor and Craig Sheridan},
+  title     = {MODAClouds: a model-driven approach for the design and execution of applications on multiple clouds},
+  booktitle = {Proc. of MiSE},
+  pages     = {50--56},
+  year      = {2012},
+  doi       = {10.1109/MISE.2012.6226014}
+}

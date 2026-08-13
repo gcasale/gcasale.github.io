@@ -1,0 +1,6 @@
+@incollection{casale2006stabilisation,
+  author    = {Giuliano Casale and Giuseppe Serazzi},
+  title     = {Stabilisation techniques for load-dependent algorithms},
+  booktitle = {Communication Networks and Computer Systems (J. A. Barria, Ed.), Imperial College Press},
+  year      = {2006}
+}

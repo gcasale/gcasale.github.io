@@ -1,0 +1,10 @@
+@article{DBLP:journals/tmc/TuliCJ24,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {PreGAN+: Semi-Supervised Fault Prediction and Preemptive Migration in Dynamic Mobile Edge Environments},
+  journal   = {IEEE Trans. Mob. Comput.},
+  volume    = {23},
+  number    = {6},
+  pages     = {6881--6895},
+  year      = {2024},
+  doi       = {10.1109/TMC.2023.3330679}
+}

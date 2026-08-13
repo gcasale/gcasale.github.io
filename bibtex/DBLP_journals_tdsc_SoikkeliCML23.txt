@@ -1,0 +1,10 @@
+@article{DBLP:journals/tdsc/SoikkeliCML23,
+  author    = {Jukka Soikkeli and Giuliano Casale and Luis Muñoz-González and Emil C. Lupu},
+  title     = {Redundancy Planning for Cost Efficient Resilience to Cyber Attacks},
+  journal   = {IEEE Trans. Dependable Secur. Comput.},
+  volume    = {20},
+  number    = {2},
+  pages     = {1154--1168},
+  year      = {2023},
+  doi       = {10.1109/TDSC.2022.3151462}
+}

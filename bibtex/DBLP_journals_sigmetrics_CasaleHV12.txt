@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleHV12,
+  author    = {Giuliano Casale and Peter G. Harrison and Maria Grazia Vigliotti},
+  title     = {Product-form approximation of queueing networks with phase-type service},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {39},
+  number    = {4},
+  pages     = {36},
+  year      = {2012},
+  doi       = {10.1145/2185395.2185427}
+}

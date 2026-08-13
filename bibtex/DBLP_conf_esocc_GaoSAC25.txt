@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/esocc/GaoSAC25,
+  author    = {Yicheng Gao and Roberto Sala and Danilo Ardagna and Giuliano Casale},
+  title     = {Deep Surrogate Models of Serverless Batch Processing Services},
+  booktitle = {Proc. of ESOCC},
+  pages     = {155--170},
+  year      = {2025},
+  doi       = {10.1007/978-3-031-84617-5_13}
+}

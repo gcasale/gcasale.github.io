@@ -1,0 +1,10 @@
+@article{DBLP:journals/tompecs/OlliaroCMR24,
+  author    = {Diletta Olliaro and Giuliano Casale and Andrea Marin and Sabina Rossi},
+  title     = {A Product-form Network for Systems with Job Stealing Policies},
+  journal   = {ACM Trans. Model. Perform. Evaluation Comput. Syst.},
+  volume    = {9},
+  number    = {2},
+  pages     = {6:1--6:26},
+  year      = {2024},
+  doi       = {10.1145/3643845}
+}

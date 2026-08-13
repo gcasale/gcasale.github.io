@@ -1,0 +1,10 @@
+@article{DBLP:journals/tc/TuliCJ23,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {SciNet: Codesign of Resource Management in Cloud Computing Environments},
+  journal   = {IEEE Trans. Computers},
+  volume    = {72},
+  number    = {12},
+  pages     = {3590--3602},
+  year      = {2023},
+  doi       = {10.1109/TC.2023.3310678}
+}

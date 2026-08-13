@@ -1,0 +1,10 @@
+@article{DBLP:journals/tnsm/MiCS12,
+  author    = {Ningfang Mi and Giuliano Casale and Evgenia Smirni},
+  title     = {ASIdE: Using Autocorrelation-Based Size Estimation for Scheduling Bursty Workloads},
+  journal   = {IEEE Trans. Netw. Serv. Manag.},
+  volume    = {9},
+  number    = {2},
+  pages     = {198--212},
+  year      = {2012},
+  doi       = {10.1109/TNSM.2012.041712.100073}
+}

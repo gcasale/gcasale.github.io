@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/ipps/SmirniZMRC07,
+  author    = {Evgenia Smirni and Qi Zhang and Ningfang Mi and Alma Riska and Giuliano Casale},
+  title     = {New Results on the Performance Effects of Autocorrelated Flows in Systems},
+  booktitle = {Proc. of IPDPS},
+  pages     = {1--6},
+  year      = {2007},
+  doi       = {10.1109/IPDPS.2007.370492}
+}

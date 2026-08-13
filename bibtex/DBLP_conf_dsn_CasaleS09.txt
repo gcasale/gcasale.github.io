@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/dsn/CasaleS09,
+  author    = {Giuliano Casale and Evgenia Smirni},
+  title     = {MAP-AMVA: Approximate mean value analysis of bursty systems},
+  booktitle = {Proc. of DSN},
+  pages     = {409--418},
+  year      = {2009},
+  doi       = {10.1109/DSN.2009.5270309}
+}

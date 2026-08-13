@@ -1,0 +1,8 @@
+@article{DBLP:journals/corr/abs-1807-08673,
+  author    = {Iker Perez and Giuliano Casale},
+  title     = {Approximate Bayesian inference with queueing networks and coupled jump processes},
+  journal   = {arXiv preprint},
+  volume    = {abs/1807.08673},
+  year      = {2018},
+  doi       = {http://arxiv.org/abs/1807.08673}
+}

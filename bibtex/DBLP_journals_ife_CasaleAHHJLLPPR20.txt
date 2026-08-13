@@ -1,0 +1,10 @@
+@article{DBLP:journals/ife/CasaleAHHJLLPPR20,
+  author    = {Giuliano Casale and Matej Artac and Willem-Jan van den Heuvel and André van Hoorn and Pelle Jakovits and Frank Leymann and M. Long and V. Papanikolaou and Domenico Presenza and Alessandra Russo and Satish Narayana Srirama and Damian A. Tamburri and Michael Wurster and Lulai Zhu},
+  title     = {RADON: rational decomposition and orchestration for serverless computing},
+  journal   = {SICS Softw.-Intensive Cyber Phys. Syst.},
+  volume    = {35},
+  number    = {1-2},
+  pages     = {77--87},
+  year      = {2020},
+  doi       = {10.1007/s00450-019-00413-w}
+}

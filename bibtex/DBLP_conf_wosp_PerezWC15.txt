@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/PerezWC15,
+  author    = {Juan F. Pérez and Weikun Wang and Giuliano Casale},
+  title     = {Towards a DevOps Approach for Software Quality Engineering},
+  booktitle = {Proc. of WOSP-C@ICPE},
+  pages     = {5--10},
+  year      = {2015},
+  doi       = {10.1145/2693561.2693564}
+}

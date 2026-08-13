@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/PerezPC13,
+  author    = {Juan F. Pérez and Sergio Pacheco-Sanchez and Giuliano Casale},
+  title     = {An Offline Demand Estimation Method for Multi-threaded Applications},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {21--30},
+  year      = {2013},
+  doi       = {10.1109/MASCOTS.2013.10}
+}

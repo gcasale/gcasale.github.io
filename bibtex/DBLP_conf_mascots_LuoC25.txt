@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/LuoC25,
+  author    = {Wenxiang Luo and Giuliano Casale},
+  title     = {Enhanced Training of Response Time Anomaly Detectors Using Diffusion Models},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {1--8},
+  year      = {2025},
+  doi       = {10.1109/MASCOTS67699.2025.11283357}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tomacs/CasalePS16,
+  author    = {Giuliano Casale and Vittoria De Nitto Persone and Evgenia Smirni},
+  title     = {QRF: An Optimization-Based Framework for Evaluating Complex Stochastic Networks},
+  journal   = {ACM Trans. Model. Comput. Simul.},
+  volume    = {26},
+  number    = {3},
+  pages     = {15:1--15:24},
+  year      = {2016},
+  doi       = {10.1145/2724709}
+}

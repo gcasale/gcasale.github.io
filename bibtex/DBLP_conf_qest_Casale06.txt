@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/Casale06,
+  author    = {Giuliano Casale},
+  title     = {On Single-Class Load-Dependent Normalizing Constant Equations},
+  booktitle = {Proc. of QEST},
+  pages     = {333--342},
+  year      = {2006},
+  doi       = {10.1109/QEST.2006.36}
+}

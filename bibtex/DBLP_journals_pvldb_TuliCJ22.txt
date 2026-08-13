@@ -1,0 +1,10 @@
+@article{DBLP:journals/pvldb/TuliCJ22,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data},
+  journal   = {Proc. VLDB Endow.},
+  volume    = {15},
+  number    = {6},
+  pages     = {1201--1214},
+  year      = {2022},
+  doi       = {10.14778/3514061.3514067}
+}

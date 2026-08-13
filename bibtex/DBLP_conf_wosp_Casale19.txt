@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/Casale19,
+  author    = {Giuliano Casale},
+  title     = {Automated Multi-paradigm Analysis of Extended and Layered Queueing Models with LINE},
+  booktitle = {Proc. of ICPE Companion},
+  pages     = {37--38},
+  year      = {2019},
+  doi       = {10.1145/3302541.3311959}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleHO22,
+  author    = {Giuliano Casale and Peter G. Harrison and Wai Hong Ong},
+  title     = {Facilitating Load-Dependent Queueing Analysis Through Factorization (Extended Abstract)},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {49},
+  number    = {3},
+  pages     = {51--52},
+  year      = {2022},
+  doi       = {10.1145/3529113.3529129}
+}

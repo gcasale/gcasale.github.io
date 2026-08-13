@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/Casale09,
+  author    = {Giuliano Casale},
+  title     = {The Multi-branched Method of Moments for Queueing Networks},
+  booktitle = {Proc. of QEST},
+  pages     = {227--236},
+  year      = {2009},
+  doi       = {10.1109/QEST.2009.48}
+}

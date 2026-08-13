@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleMCS08,
+  author    = {Giuliano Casale and Ningfang Mi and Ludmila Cherkasova and Evgenia Smirni},
+  title     = {How to parameterize models with bursty workloads},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {36},
+  number    = {2},
+  pages     = {38--44},
+  year      = {2008},
+  doi       = {10.1145/1453175.1453182}
+}

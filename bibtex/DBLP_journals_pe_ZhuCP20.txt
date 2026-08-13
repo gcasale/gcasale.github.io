@@ -1,0 +1,9 @@
+@article{DBLP:journals/pe/ZhuCP20,
+  author    = {Lulai Zhu and Giuliano Casale and Iker Perez},
+  title     = {Fluid approximation of closed queueing networks with discriminatory processor sharing},
+  journal   = {Perform. Evaluation},
+  volume    = {139},
+  pages     = {102094},
+  year      = {2020},
+  doi       = {10.1016/j.peva.2020.102094}
+}

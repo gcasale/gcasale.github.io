@@ -1,0 +1,10 @@
+@article{DBLP:journals/pe/Casale11a,
+  author    = {Giuliano Casale},
+  title     = {Exact analysis of performance models by the Method of Moments},
+  journal   = {Perform. Evaluation},
+  volume    = {68},
+  number    = {6},
+  pages     = {487--506},
+  year      = {2011},
+  doi       = {10.1016/j.peva.2010.12.009}
+}

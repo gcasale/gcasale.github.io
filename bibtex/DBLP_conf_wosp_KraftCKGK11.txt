@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/KraftCKGK11,
+  author    = {Stephan Kraft and Giuliano Casale and Diwakar Krishnamurthy and Des Greer and Peter Kilpatrick},
+  title     = {IO performance prediction in consolidated virtualized environments},
+  booktitle = {Proc. of ICPE},
+  pages     = {295--306},
+  year      = {2011},
+  doi       = {10.1145/1958746.1958789}
+}

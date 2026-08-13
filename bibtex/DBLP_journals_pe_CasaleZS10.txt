@@ -1,0 +1,10 @@
+@article{DBLP:journals/pe/CasaleZS10,
+  author    = {Giuliano Casale and Eddy Z. Zhang and Evgenia Smirni},
+  title     = {Trace data characterization and fitting for Markov modeling},
+  journal   = {Perform. Evaluation},
+  volume    = {67},
+  number    = {2},
+  pages     = {61--79},
+  year      = {2010},
+  doi       = {10.1016/j.peva.2009.09.003}
+}

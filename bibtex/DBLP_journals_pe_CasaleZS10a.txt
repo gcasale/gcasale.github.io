@@ -1,0 +1,10 @@
+@article{DBLP:journals/pe/CasaleZS10a,
+  author    = {Giuliano Casale and Eddy Z. Zhang and Evgenia Smirni},
+  title     = {KPC-Toolbox: Best recipes for automatic trace fitting using Markovian Arrival Processes},
+  journal   = {Perform. Evaluation},
+  volume    = {67},
+  number    = {9},
+  pages     = {873--896},
+  year      = {2010},
+  doi       = {10.1016/j.peva.2009.12.003}
+}

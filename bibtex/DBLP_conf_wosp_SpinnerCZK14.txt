@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/SpinnerCZK14,
+  author    = {Simon Spinner and Giuliano Casale and Xiaoyun Zhu and Samuel Kounev},
+  title     = {LibReDE: a library for resource demand estimation},
+  booktitle = {Proc. of ICPE},
+  pages     = {227--228},
+  year      = {2014},
+  doi       = {10.1145/2568088.2576093}
+}

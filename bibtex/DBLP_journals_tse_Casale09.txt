@@ -1,0 +1,10 @@
+@article{DBLP:journals/tse/Casale09,
+  author    = {Giuliano Casale},
+  title     = {CoMoM: Efficient Class-Oriented Evaluation of Multiclass Performance Models},
+  journal   = {IEEE Trans. Software Eng.},
+  volume    = {35},
+  number    = {2},
+  pages     = {162--177},
+  year      = {2009},
+  doi       = {10.1109/TSE.2008.79}
+}

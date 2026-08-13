@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/icsoc/WangCF22,
+  author    = {Runan Wang and Giuliano Casale and Antonio Filieri},
+  title     = {Enhancing Performance Modeling of Serverless Functions via Static Analysis},
+  booktitle = {Proc. of ICSOC},
+  pages     = {71--88},
+  year      = {2022},
+  doi       = {10.1007/978-3-031-20984-0_5}
+}

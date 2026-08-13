@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/dsn/NiuRC24,
+  author    = {Zifeng Niu and Manuel Roveri and Giuliano Casale},
+  title     = {ChainNet: A Customized Graph Neural Network Model for Loss-Aware Edge AI Service Deployment},
+  booktitle = {Proc. of DSN},
+  pages     = {238--251},
+  year      = {2024},
+  doi       = {10.1109/DSN58291.2024.00034}
+}

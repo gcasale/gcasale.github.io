@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/dsn/SansotteraCC13,
+  author    = {Andrea Sansottera and Giuliano Casale and Paolo Cremonesi},
+  title     = {Fitting second-order acyclic Marked Markovian Arrival Processes},
+  booktitle = {Proc. of DSN},
+  pages     = {1--12},
+  year      = {2013},
+  doi       = {10.1109/DSN.2013.6575347}
+}

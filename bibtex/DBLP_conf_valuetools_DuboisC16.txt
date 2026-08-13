@@ -1,0 +1,7 @@
+@inproceedings{DBLP:conf/valuetools/DuboisC16,
+  author    = {Daniel J. Dubois and Giuliano Casale},
+  title     = {Performance Prediction for Burstable Cloud Resources},
+  booktitle = {Proc. of VALUETOOLS},
+  year      = {2016},
+  doi       = {10.4108/eai.25-10-2016.2266436}
+}

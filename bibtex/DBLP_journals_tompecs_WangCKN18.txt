@@ -1,0 +1,10 @@
+@article{DBLP:journals/tompecs/WangCKN18,
+  author    = {Weikun Wang and Giuliano Casale and Ajay Kattepur and Manoj Nambiar},
+  title     = {QMLE: A Methodology for Statistical Inference of Service Demands from Queueing Data},
+  journal   = {ACM Trans. Model. Perform. Evaluation Comput. Syst.},
+  volume    = {3},
+  number    = {4},
+  pages     = {17:1--17:28},
+  year      = {2018},
+  doi       = {10.1145/3233180}
+}

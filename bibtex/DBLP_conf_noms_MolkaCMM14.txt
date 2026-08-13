@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/noms/MolkaCMM14,
+  author    = {Karsten Molka and Giuliano Casale and Thomas Molka and Laura Moore},
+  title     = {Memory-aware sizing for in-memory databases},
+  booktitle = {Proc. of NOMS},
+  pages     = {1--9},
+  year      = {2014},
+  doi       = {10.1109/NOMS.2014.6838359}
+}

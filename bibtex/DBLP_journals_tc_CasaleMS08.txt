@@ -1,0 +1,10 @@
+@article{DBLP:journals/tc/CasaleMS08,
+  author    = {Giuliano Casale and Richard R. Muntz and Giuseppe Serazzi},
+  title     = {Geometric Bounds: A Noniterative Analysis Technique for Closed Queueing Networks},
+  journal   = {IEEE Trans. Computers},
+  volume    = {57},
+  number    = {6},
+  pages     = {780--794},
+  year      = {2008},
+  doi       = {10.1109/TC.2008.37}
+}

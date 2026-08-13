@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/DobreNC24,
+  author    = {Rares-Andrei Dobre and Zifeng Niu and Giuliano Casale},
+  title     = {Approximating Fork-Join Systems via Mixed Model Transformations},
+  booktitle = {Proc. of ICPE (Companion)},
+  pages     = {273--280},
+  year      = {2024},
+  doi       = {10.1145/3629527.3652277}
+}

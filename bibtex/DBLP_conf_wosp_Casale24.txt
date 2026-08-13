@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/Casale24,
+  author    = {Giuliano Casale},
+  title     = {Optimizing Edge AI: Performance Engineering in Resource-Constrained Environments},
+  booktitle = {Proc. of ICPE},
+  pages     = {223},
+  year      = {2024},
+  doi       = {10.1145/3629526.3649131}
+}

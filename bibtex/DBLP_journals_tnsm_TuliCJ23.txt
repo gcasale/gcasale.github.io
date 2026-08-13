@@ -1,0 +1,10 @@
+@article{DBLP:journals/tnsm/TuliCJ23,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {DRAGON: Decentralized Fault Tolerance in Edge Federations},
+  journal   = {IEEE Trans. Netw. Serv. Manag.},
+  volume    = {20},
+  number    = {1},
+  pages     = {276--291},
+  year      = {2023},
+  doi       = {10.1109/TNSM.2022.3199886}
+}

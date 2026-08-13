@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/im/MusabbirKC13,
+  author    = {Samira Musabbir and Diwakar Krishnamurthy and Giuliano Casale},
+  title     = {RPO: Runtime web server optimization under simultaneous multithreading},
+  booktitle = {Proc. of IM},
+  pages     = {85--92},
+  year      = {2013},
+  doi       = {https://ieeexplore.ieee.org/document/6572973/}
+}

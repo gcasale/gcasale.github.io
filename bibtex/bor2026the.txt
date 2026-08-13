@@ -1,0 +1,6 @@
+@inproceedings{bor2026the,
+  author    = {Julius Bor and Giuliano Casale and Evgenia Smirni},
+  title     = {The component queues method for quasi-birth-death process fitting and analysis},
+  booktitle = {Proc. of QEST/FORMATS 2026},
+  year      = {2026}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tpds/TuliCJ22,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {MCDS: AI Augmented Workflow Scheduling in Mobile Edge Cloud Computing Systems},
+  journal   = {IEEE Trans. Parallel Distributed Syst.},
+  volume    = {33},
+  number    = {11},
+  pages     = {2794--2807},
+  year      = {2022},
+  doi       = {10.1109/TPDS.2021.3135907}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/WangCKN16,
+  author    = {Weikun Wang and Giuliano Casale and Ajay Kattepur and Manoj Nambiar},
+  title     = {Maximum Likelihood Estimation of Closed Queueing Network Demands from Queue Length Data},
+  booktitle = {Proc. of ICPE},
+  pages     = {3--14},
+  year      = {2016},
+  doi       = {10.1145/2851553.2851565}
+}

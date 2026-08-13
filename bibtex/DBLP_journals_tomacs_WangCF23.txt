@@ -1,0 +1,10 @@
+@article{DBLP:journals/tomacs/WangCF23,
+  author    = {Runan Wang and Giuliano Casale and Antonio Filieri},
+  title     = {Estimating Multiclass Service Demand Distributions Using Markovian Arrival Processes},
+  journal   = {ACM Trans. Model. Comput. Simul.},
+  volume    = {33},
+  number    = {1-2},
+  pages     = {2:1--2:26},
+  year      = {2023},
+  doi       = {10.1145/3570924}
+}

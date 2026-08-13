@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/icdcs/GiasCW19,
+  author    = {Alim Ul Gias and Giuliano Casale and C. Murray Woodside},
+  title     = {ATOM: Model-Driven Autoscaling for Microservices},
+  booktitle = {Proc. of ICDCS},
+  pages     = {1994--2004},
+  year      = {2019},
+  doi       = {10.1109/ICDCS.2019.00197}
+}

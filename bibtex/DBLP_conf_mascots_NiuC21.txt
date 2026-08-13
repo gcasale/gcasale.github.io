@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/NiuC21,
+  author    = {Zifeng Niu and Giuliano Casale},
+  title     = {A Mixture Density Network Approach to Predicting Response Times in Layered Systems},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {1--8},
+  year      = {2021},
+  doi       = {10.1109/MASCOTS53633.2021.9614286}
+}

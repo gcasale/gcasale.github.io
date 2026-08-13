@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/simutools/BertoliCS09,
+  author    = {Marco Bertoli and Giuliano Casale and Giuseppe Serazzi},
+  title     = {User-friendly approach to capacity planning studies with Java modelling tools},
+  booktitle = {Proc. of SimuTools},
+  pages     = {48},
+  year      = {2009},
+  doi       = {10.4108/ICST.SIMUTOOLS2009.5650}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/infocom/TuliCJ22,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {PreGAN: Preemptive Migration Prediction Network for Proactive Fault-Tolerant Edge Computing},
+  booktitle = {Proc. of INFOCOM},
+  pages     = {670--679},
+  year      = {2022},
+  doi       = {10.1109/INFOCOM48880.2022.9796778}
+}

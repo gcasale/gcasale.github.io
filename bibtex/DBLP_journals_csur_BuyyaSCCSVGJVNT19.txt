@@ -1,0 +1,10 @@
+@article{DBLP:journals/csur/BuyyaSCCSVGJVNT19,
+  author    = {Rajkumar Buyya and Satish Narayana Srirama and Giuliano Casale and Rodrigo N. Calheiros and Yogesh Simmhan and Blesson Varghese and Erol Gelenbe and Bahman Javadi and Luis Miguel Vaquero and Marco A. S. Netto and Adel Nadjaran Toosi and Maria Alejandra Rodriguez and Ignacio Martín Llorente and Sabrina De Capitani di Vimercati and Pierangela Samarati and Dejan S. Milojicic and Carlos A. Varela and Rami Bahsoon and Marcos Dias de Assunção and Omer F. Rana and Wanlei Zhou and Hai Jin and Wolfgang Gentzsch and Albert Y. Zomaya and Haiying Shen},
+  title     = {A Manifesto for Future Generation Cloud Computing: Research Directions for the Next Decade},
+  journal   = {ACM Comput. Surv.},
+  volume    = {51},
+  number    = {5},
+  pages     = {105:1--105:38},
+  year      = {2019},
+  doi       = {10.1145/3241737}
+}

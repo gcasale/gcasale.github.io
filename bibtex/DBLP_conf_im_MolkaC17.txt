@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/im/MolkaC17,
+  author    = {Karsten Molka and Giuliano Casale},
+  title     = {Energy-efficient resource allocation and provisioning for in-memory database clusters},
+  booktitle = {Proc. of IM},
+  pages     = {19--27},
+  year      = {2017},
+  doi       = {10.23919/INM.2017.7987260}
+}

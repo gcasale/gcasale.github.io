@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/CasaleCJLSZ17,
+  author    = {Giuliano Casale and Mattia Cazzoli and Shuai Jiang and Vitor S. Lopes and Giuseppe Serazzi and Lulai Zhu},
+  title     = {Generalized Synchronizations and Capacity Constraints for Java Modelling Tools},
+  booktitle = {Proc. of ICPE},
+  pages     = {169--170},
+  year      = {2017},
+  doi       = {10.1145/3030207.3053666}
+}

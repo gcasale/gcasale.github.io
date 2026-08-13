@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/quatic/AlnafessahC18,
+  author    = {Ahmad Alnafessah and Giuliano Casale},
+  title     = {A Neural-Network Driven Methodology for Anomaly Detection in Apache Spark},
+  booktitle = {Proc. of QUATIC},
+  pages     = {201--209},
+  year      = {2018},
+  doi       = {10.1109/QUATIC.2018.00038}
+}

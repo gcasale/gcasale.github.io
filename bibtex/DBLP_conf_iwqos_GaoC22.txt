@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/iwqos/GaoC22,
+  author    = {Yicheng Gao and Giuliano Casale},
+  title     = {JCSP: Joint Caching and Service Placement for Edge Computing Systems},
+  booktitle = {Proc. of IWQoS},
+  pages     = {1--10},
+  year      = {2022},
+  doi       = {10.1109/IWQoS54832.2022.9812888}
+}

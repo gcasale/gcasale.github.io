@@ -1,0 +1,10 @@
+@article{DBLP:journals/tompecs/WuPGC19,
+  author    = {Xiaohu Wu and Francesco De Pellegrini and Guanyu Gao and Giuliano Casale},
+  title     = {A Framework for Allocating Server Time to Spot and On-Demand Services in Cloud Computing},
+  journal   = {ACM Trans. Model. Perform. Evaluation Comput. Syst.},
+  volume    = {4},
+  number    = {4},
+  pages     = {20:1--20:31},
+  year      = {2019},
+  doi       = {10.1145/3366682}
+}

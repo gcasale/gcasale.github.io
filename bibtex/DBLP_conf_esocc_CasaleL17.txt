@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/esocc/CasaleL17,
+  author    = {Giuliano Casale and Chen Li},
+  title     = {Enhancing Big Data Application Design with the DICE Framework},
+  booktitle = {Proc. of ESOCC Workshops},
+  pages     = {164--168},
+  year      = {2017},
+  doi       = {10.1007/978-3-319-79090-9_13}
+}

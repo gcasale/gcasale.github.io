@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/RiskaMSC09,
+  author    = {Alma Riska and Ningfang Mi and Evgenia Smirni and Giuliano Casale},
+  title     = {Feasibility regions: exploiting tradeoffs between power and performance in disk drives},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {37},
+  number    = {3},
+  pages     = {43--48},
+  year      = {2009},
+  doi       = {10.1145/1710115.1710124}
+}

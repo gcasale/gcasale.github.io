@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/Casale23,
+  author    = {Giuliano Casale},
+  title     = {Performance evaluation teaching in the age of cloud computing},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {51},
+  number    = {2},
+  pages     = {45--49},
+  year      = {2023},
+  doi       = {10.1145/3626570.3626588}
+}

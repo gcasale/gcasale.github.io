@@ -1,0 +1,10 @@
+@article{DBLP:journals/eor/CasaleSC16,
+  author    = {Giuliano Casale and Andrea Sansottera and Paolo Cremonesi},
+  title     = {Compact Markov-modulated models for multiclass trace fitting},
+  journal   = {Eur. J. Oper. Res.},
+  volume    = {255},
+  number    = {3},
+  pages     = {822--833},
+  year      = {2016},
+  doi       = {10.1016/j.ejor.2016.06.005}
+}

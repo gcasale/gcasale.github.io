@@ -1,0 +1,7 @@
+@inproceedings{DBLP:conf/valuetools/DipietroCS16,
+  author    = {Salvatore Dipietro and Giuliano Casale and Giuseppe Serazzi},
+  title     = {A Queueing Network Model for Performance Prediction of Apache Cassandra},
+  booktitle = {Proc. of VALUETOOLS},
+  year      = {2016},
+  doi       = {10.4108/eai.25-10-2016.2266606}
+}

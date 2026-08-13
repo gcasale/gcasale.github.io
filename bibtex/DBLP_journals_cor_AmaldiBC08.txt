@@ -1,0 +1,10 @@
+@article{DBLP:journals/cor/AmaldiBC08,
+  author    = {Edoardo Amaldi and Maurizio Bruglieri and Giuliano Casale},
+  title     = {A two-phase relaxation-based heuristic for the maximum feasible subsystem problem},
+  journal   = {Comput. Oper. Res.},
+  volume    = {35},
+  number    = {5},
+  pages     = {1465--1482},
+  year      = {2008},
+  doi       = {10.1016/j.cor.2007.04.001}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tompecs/GaoCS24,
+  author    = {Yicheng Gao and Giuliano Casale and Rekha Singhal},
+  title     = {Performance Modeling of Distributed Data Processing in Microservice Applications},
+  journal   = {ACM Trans. Model. Perform. Evaluation Comput. Syst.},
+  volume    = {9},
+  number    = {4},
+  pages     = {14:1--14:30},
+  year      = {2024},
+  doi       = {10.1145/3687265}
+}

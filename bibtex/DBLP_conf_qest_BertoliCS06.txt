@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/BertoliCS06,
+  author    = {Marco Bertoli and Giuliano Casale and Giuseppe Serazzi},
+  title     = {Java Modelling Tools: an Open Source Suite for Queueing Network Modelling andWorkload Analysis},
+  booktitle = {Proc. of QEST},
+  pages     = {119--120},
+  year      = {2006},
+  doi       = {10.1109/QEST.2006.22}
+}

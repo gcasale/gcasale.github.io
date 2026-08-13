@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleZS07,
+  author    = {Giuliano Casale and Eddy Z. Zhang and Evgenia Smirni},
+  title     = {Characterization of moments and autocorrelation in MAPs},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {35},
+  number    = {2},
+  pages     = {27--29},
+  year      = {2007},
+  doi       = {10.1145/1330555.1330567}
+}

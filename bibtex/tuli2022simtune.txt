@@ -1,0 +1,9 @@
+@article{tuli2022simtune,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {SimTune: bridging the simulator reality gap for resource management in edge-cloud computing},
+  journal   = {Scientific Reports},
+  volume    = {12},
+  pages     = {19158},
+  year      = {2022},
+  doi       = {10.1038/s41598-022-23924-0}
+}

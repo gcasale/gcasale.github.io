@@ -1,0 +1,10 @@
+@article{DBLP:journals/pe/Casale10,
+  author    = {Giuliano Casale},
+  title     = {Approximating passage time distributions in queueing models by Bayesian expansion},
+  journal   = {Perform. Evaluation},
+  volume    = {67},
+  number    = {11},
+  pages     = {1076--1091},
+  year      = {2010},
+  doi       = {10.1016/j.peva.2010.08.003}
+}

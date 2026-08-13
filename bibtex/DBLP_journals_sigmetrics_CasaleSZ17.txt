@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleSZ17,
+  author    = {Giuliano Casale and Giuseppe Serazzi and Lulai Zhu},
+  title     = {Performance Evaluation with Java Modelling Tools: : A Hands-on Introduction},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {45},
+  number    = {3},
+  pages     = {246--247},
+  year      = {2017},
+  doi       = {10.1145/3199524.3199567}
+}

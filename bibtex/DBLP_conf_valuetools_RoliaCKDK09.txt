@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/valuetools/RoliaCKDK09,
+  author    = {Jerry Rolia and Giuliano Casale and Diwakar Krishnamurthy and Stephen Dawson and Stephan Kraft},
+  title     = {Predictive modelling of SAP ERP applications: challenges and solutions},
+  booktitle = {Proc. of VALUETOOLS},
+  pages     = {9},
+  year      = {2009},
+  doi       = {10.4108/ICST.VALUETOOLS2009.7988}
+}

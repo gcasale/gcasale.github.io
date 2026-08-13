@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/WangC13,
+  author    = {Weikun Wang and Giuliano Casale},
+  title     = {Bayesian Service Demand Estimation Using Gibbs Sampling},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {567--576},
+  year      = {2013},
+  doi       = {10.1109/MASCOTS.2013.78}
+}

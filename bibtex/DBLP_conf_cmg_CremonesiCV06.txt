@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/cmg/CremonesiCV06,
+  author    = {Paolo Cremonesi and Giuliano Casale and Stefano Visconti},
+  title     = {Identifying network failures and evaluating link MTBF from utilization logs},
+  booktitle = {Proc. of Int. CMG Conference},
+  pages     = {703--710},
+  year      = {2006},
+  doi       = {http://www.cmg.org/?s2member_file_download=/proceedings/2006/6065.pdf}
+}

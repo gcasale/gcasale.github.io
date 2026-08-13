@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/JamshidiC16,
+  author    = {Pooyan Jamshidi and Giuliano Casale},
+  title     = {An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {39--48},
+  year      = {2016},
+  doi       = {10.1109/MASCOTS.2016.17}
+}

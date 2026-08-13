@@ -1,0 +1,10 @@
+@article{perez2021variational,
+  author    = {Iker Perez and Giuliano Casale},
+  title     = {Variational inference for Markovian queueing networks},
+  journal   = {Advances in Applied Probability},
+  volume    = {53},
+  number    = {3},
+  pages     = {687--715},
+  year      = {2021},
+  doi       = {10.1017/apr.2020.72}
+}

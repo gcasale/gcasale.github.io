@@ -1,0 +1,6 @@
+@inproceedings{tribastone2010processalgebraic,
+  author    = {Mirco Tribastone and Giuliano Casale},
+  title     = {Process-algebraic modelling of priority queueing networks},
+  booktitle = {Proc. of PASTA 2010 workshop},
+  year      = {2010}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tse/CasaleMCS12,
+  author    = {Giuliano Casale and Ningfang Mi and Ludmila Cherkasova and Evgenia Smirni},
+  title     = {Dealing with Burstiness in Multi-Tier Applications: Models and Their Parameterization},
+  journal   = {IEEE Trans. Software Eng.},
+  volume    = {38},
+  number    = {5},
+  pages     = {1040--1053},
+  year      = {2012},
+  doi       = {10.1109/TSE.2011.87}
+}

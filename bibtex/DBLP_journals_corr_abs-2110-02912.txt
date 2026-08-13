@@ -1,0 +1,8 @@
+@article{DBLP:journals/corr/abs-2110-02912,
+  author    = {Shreshth Tuli and Shikhar Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {Generative Optimization Networks for Memory Efficient Data Generation},
+  journal   = {arXiv preprint},
+  volume    = {abs/2110.02912},
+  year      = {2021},
+  doi       = {https://arxiv.org/abs/2110.02912}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/synasc/NittoSACCFMS13,
+  author    = {Elisabetta Di Nitto and Marcos Aurélio Almeida da Silva and Danilo Ardagna and Giuliano Casale and Ciprian Dorin Craciun and Nicolas Ferry and Victor Muntés and Arnor Solberg},
+  title     = {Supporting the Development and Operation of Multi-cloud Applications: The MODAClouds Approach},
+  booktitle = {Proc. of SYNASC},
+  pages     = {417--423},
+  year      = {2013},
+  doi       = {10.1109/SYNASC.2013.61}
+}

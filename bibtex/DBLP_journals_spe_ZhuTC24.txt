@@ -1,0 +1,10 @@
+@article{DBLP:journals/spe/ZhuTC24,
+  author    = {Lulai Zhu and Damian Andrew Tamburri and Giuliano Casale},
+  title     = {RADF: Architecture decomposition for function as a service},
+  journal   = {Softw. Pract. Exp.},
+  volume    = {54},
+  number    = {4},
+  pages     = {566--594},
+  year      = {2024},
+  doi       = {10.1002/spe.3276}
+}

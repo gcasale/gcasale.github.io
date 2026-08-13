@@ -1,0 +1,10 @@
+@article{DBLP:journals/tompecs/MolkaC16,
+  author    = {Karsten Molka and Giuliano Casale},
+  title     = {Contention-Aware Workload Placement for In-Memory Databases in Cloud Environments},
+  journal   = {ACM Trans. Model. Perform. Evaluation Comput. Syst.},
+  volume    = {2},
+  number    = {1},
+  pages     = {1:1--1:29},
+  year      = {2016},
+  doi       = {10.1145/2961888}
+}

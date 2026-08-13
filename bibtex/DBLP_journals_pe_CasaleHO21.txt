@@ -1,0 +1,9 @@
+@article{DBLP:journals/pe/CasaleHO21,
+  author    = {Giuliano Casale and Peter G. Harrison and Wai Hong Ong},
+  title     = {Facilitating load-dependent queueing analysis through factorization},
+  journal   = {Perform. Evaluation},
+  volume    = {152},
+  pages     = {102241},
+  year      = {2021},
+  doi       = {10.1016/j.peva.2021.102241}
+}

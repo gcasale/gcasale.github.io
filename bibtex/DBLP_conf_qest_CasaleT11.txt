@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/CasaleT11,
+  author    = {Giuliano Casale and Mirco Tribastone},
+  title     = {Fluid Analysis of Queueing in Two-Stage Random Environments},
+  booktitle = {Proc. of QEST},
+  pages     = {21--30},
+  year      = {2011},
+  doi       = {10.1109/QEST.2011.12}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/questa/Casale26,
+  author    = {Giuliano Casale},
+  title     = {A family of multiclass LCFS networks with a novel product-form solution},
+  journal   = {Queueing Syst. Theory Appl.},
+  volume    = {110},
+  number    = {2},
+  pages     = {32},
+  year      = {2026},
+  doi       = {10.1007/s11134-026-09992-3}
+}

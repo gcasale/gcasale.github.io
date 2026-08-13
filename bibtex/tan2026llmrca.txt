@@ -1,0 +1,6 @@
+@article{tan2026llmrca,
+  author    = {Guangba Tan and Zhaoyang He and Mingjie Li and Huan Huang and Yu Wang and Pengfei Chen and Giuliano Casale and Chengzhong Zhang},
+  title     = {LLMRCA: Multilevel root cause analysis for LLM applications using multimodal observability data},
+  journal   = {ACM Trans. Softw. Eng. Methodol.},
+  year      = {2026}
+}

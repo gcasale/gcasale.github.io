@@ -1,0 +1,10 @@
+@article{DBLP:journals/imwut/TuliCR25,
+  author    = {Shreshth Tuli and Giuliano Casale and Manuel Roveri},
+  title     = {SELA: Smart Edge LLM Agent to Optimize Response Trade-offs of AI Assistants},
+  journal   = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+  volume    = {9},
+  number    = {3},
+  pages     = {130:1--130:18},
+  year      = {2025},
+  doi       = {10.1145/3749483}
+}

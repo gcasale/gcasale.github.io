@@ -1,0 +1,10 @@
+@article{DBLP:journals/questa/Casale08,
+  author    = {Giuliano Casale},
+  title     = {A note on stable flow-equivalent aggregation in closed networks},
+  journal   = {Queueing Syst. Theory Appl.},
+  volume    = {60},
+  number    = {3-4},
+  pages     = {193--202},
+  year      = {2008},
+  doi       = {10.1007/s11134-008-9093-6}
+}

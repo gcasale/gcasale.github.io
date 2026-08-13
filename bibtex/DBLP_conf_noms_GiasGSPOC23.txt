@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/noms/GiasGSPOC23,
+  author    = {Alim Ul Gias and Yicheng Gao and Matthew Sheldon and José A. Perusquía and Owen O'Brien and Giuliano Casale},
+  title     = {SampleHST: Efficient On-the-Fly Selection of Distributed Traces},
+  booktitle = {Proc. of NOMS},
+  pages     = {1--9},
+  year      = {2023},
+  doi       = {10.1109/NOMS56928.2023.10154383}
+}

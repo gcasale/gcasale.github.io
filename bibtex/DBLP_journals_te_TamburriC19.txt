@@ -1,0 +1,10 @@
+@article{DBLP:journals/te/TamburriC19,
+  author    = {Damian A. Tamburri and Giuliano Casale},
+  title     = {Cognitive Distance and Research Output in Computing Education: A Case-Study},
+  journal   = {IEEE Trans. Educ.},
+  volume    = {62},
+  number    = {2},
+  pages     = {99--107},
+  year      = {2019},
+  doi       = {10.1109/TE.2018.2868551}
+}

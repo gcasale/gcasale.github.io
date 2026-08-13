@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleKKR09,
+  author    = {Giuliano Casale and Amir S. Kalbasi and Diwakar Krishnamurthy and Jerry Rolia},
+  title     = {Automatically generating bursty benchmarks for multitier systems},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {37},
+  number    = {3},
+  pages     = {32--37},
+  year      = {2009},
+  doi       = {10.1145/1710115.1710122}
+}

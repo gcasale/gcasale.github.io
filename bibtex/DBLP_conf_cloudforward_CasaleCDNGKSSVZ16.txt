@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/cloudforward/CasaleCDNGKSSVZ16,
+  author    = {Giuliano Casale and Cristina Chesta and Peter Deussen and Elisabetta Di Nitto and Panagiotis Gouvas and Sotiris Koussouris and Vlado Stankovski and Andreas L. Symeonidis and Vlassis Vlassiou and Anastasios Zafeiropoulos and Zhiming Zhao},
+  title     = {Current and Future Challenges of Software Engineering for Services and Applications},
+  booktitle = {Proc. of Cloud Forward},
+  pages     = {34--42},
+  year      = {2016},
+  doi       = {10.1016/j.procs.2016.08.278}
+}

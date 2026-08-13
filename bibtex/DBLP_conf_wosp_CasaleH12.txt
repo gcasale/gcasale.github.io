@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/CasaleH12,
+  author    = {Giuliano Casale and Peter G. Harrison},
+  title     = {A class of tractable models for run-time performance evaluation},
+  booktitle = {Proc. of ICPE},
+  pages     = {63--74},
+  year      = {2012},
+  doi       = {10.1145/2188286.2188299}
+}

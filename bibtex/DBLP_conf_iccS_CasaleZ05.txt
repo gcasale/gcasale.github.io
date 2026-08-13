@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/iccS/CasaleZ05,
+  author    = {Giuliano Casale and Stefano Zanero},
+  title     = {GIVS: Integrity Validation for Grid Security},
+  booktitle = {Proc. of International Conference on Computational Science (3)},
+  pages     = {147--154},
+  year      = {2005},
+  doi       = {10.1007/11428862_22}
+}

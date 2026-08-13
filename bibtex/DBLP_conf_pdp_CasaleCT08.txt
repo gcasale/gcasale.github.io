@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/pdp/CasaleCT08,
+  author    = {Giuliano Casale and Paolo Cremonesi and Roberto Turrin},
+  title     = {Robust Workload Estimation in Queueing Network Performance Models},
+  booktitle = {Proc. of PDP},
+  pages     = {183--187},
+  year      = {2008},
+  doi       = {10.1109/PDP.2008.80}
+}

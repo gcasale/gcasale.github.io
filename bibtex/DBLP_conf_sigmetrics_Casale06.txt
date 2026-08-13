@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/sigmetrics/Casale06,
+  author    = {Giuliano Casale},
+  title     = {An efficient algorithm for the exact analysis of multiclass queueing networks with large population sizes},
+  booktitle = {Proc. of SIGMETRICS/Performance},
+  pages     = {169--180},
+  year      = {2006},
+  doi       = {10.1145/1140277.1140298}
+}

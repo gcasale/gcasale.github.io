@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/WangC15,
+  author    = {Weikun Wang and Giuliano Casale},
+  title     = {Maximum Likelihood Estimation of Closed Queueing Network Demands from Queue Length Data},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {43},
+  number    = {2},
+  pages     = {45--47},
+  year      = {2015},
+  doi       = {10.1145/2825236.2825255}
+}

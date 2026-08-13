@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/dsn/MiCS08,
+  author    = {Ningfang Mi and Giuliano Casale and Evgenia Smirni},
+  title     = {Scheduling for performance and availability in systems with temporal dependent workloads},
+  booktitle = {Proc. of DSN},
+  pages     = {336--345},
+  year      = {2008},
+  doi       = {10.1109/DSN.2008.4630102}
+}

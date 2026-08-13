@@ -1,0 +1,10 @@
+@article{DBLP:journals/tsc/WuYCG25,
+  author    = {Xiaohu Wu and Han Yu and Giuliano Casale and Guanyu Gao},
+  title     = {Towards Cost-Optimal Policies for DAGs to Utilize IaaS Clouds With Online Learning},
+  journal   = {IEEE Trans. Serv. Comput.},
+  volume    = {18},
+  number    = {4},
+  pages     = {2439--2455},
+  year      = {2025},
+  doi       = {10.1109/TSC.2025.3536305}
+}

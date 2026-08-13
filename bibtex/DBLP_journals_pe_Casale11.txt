@@ -1,0 +1,10 @@
+@article{DBLP:journals/pe/Casale11,
+  author    = {Giuliano Casale},
+  title     = {A generalized method of moments for closed queueing networks},
+  journal   = {Perform. Evaluation},
+  volume    = {68},
+  number    = {2},
+  pages     = {180--200},
+  year      = {2011},
+  doi       = {10.1016/j.peva.2010.08.026}
+}

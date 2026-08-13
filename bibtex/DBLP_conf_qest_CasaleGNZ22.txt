@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qest/CasaleGNZ22,
+  author    = {Giuliano Casale and Yicheng Gao and Zifeng Niu and Lulai Zhu},
+  title     = {LN: A Meta-solver for Layered Queueing Network Analysis},
+  booktitle = {Proc. of QEST},
+  pages     = {232--254},
+  year      = {2022},
+  doi       = {10.1007/978-3-031-16336-4_12}
+}

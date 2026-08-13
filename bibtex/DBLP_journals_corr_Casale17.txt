@@ -1,0 +1,8 @@
+@article{DBLP:journals/corr/Casale17,
+  author    = {Giuliano Casale},
+  title     = {A note on integrating products of linear forms over the unit simplex},
+  journal   = {arXiv preprint},
+  volume    = {abs/1704.05867},
+  year      = {2017},
+  doi       = {http://arxiv.org/abs/1704.05867}
+}

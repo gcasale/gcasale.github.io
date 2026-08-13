@@ -1,0 +1,7 @@
+@inproceedings{DBLP:conf/dagstuhl/CasaleZS07,
+  author    = {Giuliano Casale and Eddy Z. Zhang and Evgenia Smirni},
+  title     = {Interarrival Times Characterization and Fitting for Markovian Traffic Analysis},
+  booktitle = {Proc. of Numerical Methods for Structured Markov Chains},
+  year      = {2007},
+  doi       = {http://drops.dagstuhl.de/opus/volltexte/2008/1390}
+}

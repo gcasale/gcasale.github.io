@@ -1,0 +1,10 @@
+@article{DBLP:journals/tits/SheldonTC25,
+  author    = {Matthew Sheldon and Daphné Tuncer and Giuliano Casale},
+  title     = {TBI: Transient Hierarchical Modeling of Large-Scale Vehicle Sharing Systems},
+  journal   = {IEEE Trans. Intell. Transp. Syst.},
+  volume    = {26},
+  number    = {11},
+  pages     = {19720--19729},
+  year      = {2025},
+  doi       = {10.1109/TITS.2025.3610685}
+}

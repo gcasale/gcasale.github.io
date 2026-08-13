@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/cloudcom/CasaleRP13,
+  author    = {Giuliano Casale and Carmelo Ragusa and Panos Parpas},
+  title     = {A Feasibility Study of Host-Level Contention Detection by Guest Virtual Machines},
+  booktitle = {Proc. of CloudCom (2)},
+  pages     = {152--157},
+  year      = {2013},
+  doi       = {10.1109/CloudCom.2013.118}
+}

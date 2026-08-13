@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/IEEEcloud/TuliCJ22,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {MetaNet: Automated Dynamic Selection of Scheduling Policies in Cloud Environments},
+  booktitle = {Proc. of CLOUD},
+  pages     = {331--341},
+  year      = {2022},
+  doi       = {10.1109/CLOUD55607.2022.00056}
+}

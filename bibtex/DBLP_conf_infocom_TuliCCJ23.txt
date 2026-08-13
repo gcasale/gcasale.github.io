@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/infocom/TuliCCJ23,
+  author    = {Shreshth Tuli and Giuliano Casale and Ludmila Cherkasova and Nicholas R. Jennings},
+  title     = {DeepFT: Fault-Tolerant Edge Computing using a Self-Supervised Deep Surrogate Model},
+  booktitle = {Proc. of INFOCOM},
+  pages     = {1--10},
+  year      = {2023},
+  doi       = {10.1109/INFOCOM53939.2023.10229049}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/GiasC20,
+  author    = {Alim Ul Gias and Giuliano Casale},
+  title     = {COCOA: Cold Start Aware Capacity Planning for Function-as-a-Service Platforms},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {1--8},
+  year      = {2020},
+  doi       = {10.1109/MASCOTS50786.2020.9285966}
+}

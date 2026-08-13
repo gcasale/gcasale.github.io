@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/sigsoft/WangPC15,
+  author    = {Weikun Wang and Juan F. Pérez and Giuliano Casale},
+  title     = {Filling the gap: a tool to automate parameter estimation for software performance models},
+  booktitle = {Proc. of QUDOS@SIGSOFT FSE},
+  pages     = {31--32},
+  year      = {2015},
+  doi       = {10.1145/2804371.2804379}
+}

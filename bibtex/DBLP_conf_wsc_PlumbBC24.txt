@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wsc/PlumbBC24,
+  author    = {William Plumb and Alex Bottle and Giuliano Casale},
+  title     = {Bayesian Optimization for Clinical Pathway Decomposition From Aggregate Data},
+  booktitle = {Proc. of WSC},
+  pages     = {952--963},
+  year      = {2024},
+  doi       = {10.1109/WSC63780.2024.10838870}
+}

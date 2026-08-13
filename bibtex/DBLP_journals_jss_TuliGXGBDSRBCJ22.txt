@@ -1,0 +1,9 @@
+@article{DBLP:journals/jss/TuliGXGBDSRBCJ22,
+  author    = {Shreshth Tuli and Sukhpal Singh Gill and Minxian Xu and Peter Garraghan and Rami Bahsoon and Schahram Dustdar and Rizos Sakellariou and Omer F. Rana and Rajkumar Buyya and Giuliano Casale and Nicholas R. Jennings},
+  title     = {HUNTER: AI based holistic resource management for sustainable cloud computing},
+  journal   = {J. Syst. Softw.},
+  volume    = {184},
+  pages     = {111124},
+  year      = {2022},
+  doi       = {10.1016/j.jss.2021.111124}
+}

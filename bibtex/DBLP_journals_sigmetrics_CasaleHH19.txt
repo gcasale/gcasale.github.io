@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/CasaleHH19,
+  author    = {Giuliano Casale and Peter G. Harrison and Ong Wai Hong},
+  title     = {Novel Solutions for Closed Queueing Networks with Load-Dependent Stations},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {47},
+  number    = {2},
+  pages     = {30--32},
+  year      = {2019},
+  doi       = {10.1145/3374888.3374900}
+}

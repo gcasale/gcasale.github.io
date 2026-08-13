@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/LiCE10,
+  author    = {Hui Li and Giuliano Casale and Tariq N. Ellahi},
+  title     = {SLA-driven planning and optimization of enterprise applications},
+  booktitle = {Proc. of WOSP/SIPEW},
+  pages     = {117--128},
+  year      = {2010},
+  doi       = {10.1145/1712605.1712625}
+}

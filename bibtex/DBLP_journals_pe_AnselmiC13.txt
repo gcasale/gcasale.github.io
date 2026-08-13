@@ -1,0 +1,10 @@
+@article{DBLP:journals/pe/AnselmiC13,
+  author    = {Jonatha Anselmi and Giuliano Casale},
+  title     = {Heavy-traffic revenue maximization in parallel multiclass queues},
+  journal   = {Perform. Evaluation},
+  volume    = {70},
+  number    = {10},
+  pages     = {806--821},
+  year      = {2013},
+  doi       = {10.1016/j.peva.2013.08.008}
+}

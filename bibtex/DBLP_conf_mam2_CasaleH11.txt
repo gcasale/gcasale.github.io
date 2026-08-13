@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mam2/CasaleH11,
+  author    = {Giuliano Casale and Peter G. Harrison},
+  title     = {AutoCAT: Automated Product-Form Solution of Stochastic Models},
+  booktitle = {Proc. of MAM},
+  pages     = {57--85},
+  year      = {2011},
+  doi       = {10.1007/978-1-4614-4909-6_4}
+}

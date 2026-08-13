@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/LiC24,
+  author    = {Zhuoyuan Li and Giuliano Casale},
+  title     = {Matrix Network Analyzer: A New Decomposition Algorithm for Phase-type Queueing Networks (Work In Progress Paper)},
+  booktitle = {Proc. of ICPE (Companion)},
+  pages     = {34--39},
+  year      = {2024},
+  doi       = {10.1145/3629527.3651431}
+}

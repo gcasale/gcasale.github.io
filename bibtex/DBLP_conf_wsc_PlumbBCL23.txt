@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wsc/PlumbBCL23,
+  author    = {William Plumb and Alex Bottle and Giuliano Casale and Alex Liddle},
+  title     = {Clinical Pathway Clustering Using Surrogate Likelihoods and Replayability Validation},
+  booktitle = {Proc. of WSC},
+  pages     = {1220--1231},
+  year      = {2023},
+  doi       = {10.1109/WSC60868.2023.10407280}
+}

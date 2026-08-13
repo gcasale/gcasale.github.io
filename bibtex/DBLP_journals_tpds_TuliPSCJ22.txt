@@ -1,0 +1,10 @@
+@article{DBLP:journals/tpds/TuliPSCJ22,
+  author    = {Shreshth Tuli and Shivananda R. Poojara and Satish Narayana Srirama and Giuliano Casale and Nicholas R. Jennings},
+  title     = {COSCO: Container Orchestration Using Co-Simulation and Gradient Based Optimization for Fog Computing Environments},
+  journal   = {IEEE Trans. Parallel Distributed Syst.},
+  volume    = {33},
+  number    = {1},
+  pages     = {101--116},
+  year      = {2022},
+  doi       = {10.1109/TPDS.2021.3087349}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/ccgrid/RussoCCP21,
+  author    = {Gabriele Russo Russo and Valeria Cardellini and Giuliano Casale and Francesco Lo Presti},
+  title     = {MEAD: Model-Based Vertical Auto-Scaling for Data Stream Processing},
+  booktitle = {Proc. of CCGRID},
+  pages     = {314--323},
+  year      = {2021},
+  doi       = {10.1109/CCGrid51090.2021.00041}
+}

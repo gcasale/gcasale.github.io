@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/icac/MiCCS09,
+  author    = {Ningfang Mi and Giuliano Casale and Ludmila Cherkasova and Evgenia Smirni},
+  title     = {Injecting realistic burstiness to a traditional client-server benchmark},
+  booktitle = {Proc. of ICAC},
+  pages     = {149--158},
+  year      = {2009},
+  doi       = {10.1145/1555228.1555267}
+}

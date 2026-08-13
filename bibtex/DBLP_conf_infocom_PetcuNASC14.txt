@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/infocom/PetcuNASC14,
+  author    = {Dana Petcu and Elisabetta Di Nitto and Danilo Ardagna and Amor Solberg and Giuliano Casale},
+  title     = {Towards Multi-Clouds engineering},
+  booktitle = {Proc. of INFOCOM Workshops},
+  pages     = {1--6},
+  year      = {2014},
+  doi       = {10.1109/INFCOMW.2014.6849159}
+}

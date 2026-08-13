@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/valuetools/MakaronidisC11,
+  author    = {Michail Makaronidis and Giuliano Casale},
+  title     = {Efficient parallelization of the Method of Moments for queueing networks using multi-modular algebra},
+  booktitle = {Proc. of VALUETOOLS},
+  pages     = {176--185},
+  year      = {2011},
+  doi       = {10.4108/icst.valuetools.2011.245725}
+}

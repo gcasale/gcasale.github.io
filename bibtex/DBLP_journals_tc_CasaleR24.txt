@@ -1,0 +1,10 @@
+@article{DBLP:journals/tc/CasaleR24,
+  author    = {Giuliano Casale and Manuel Roveri},
+  title     = {Scheduling Inputs in Early Exit Neural Networks},
+  journal   = {IEEE Trans. Computers},
+  volume    = {73},
+  number    = {2},
+  pages     = {451--465},
+  year      = {2024},
+  doi       = {10.1109/TC.2023.3333189}
+}

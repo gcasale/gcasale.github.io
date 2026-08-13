@@ -1,0 +1,6 @@
+@incollection{casale2003estimating,
+  author    = {Giuliano Casale and Giuseppe Serazzi},
+  title     = {Estimating bottlenecks of very large models},
+  booktitle = {Performance Evaluation: Stories and Perspectives (G. Kotsis, Ed.), OCG Press},
+  year      = {2003}
+}

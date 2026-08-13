@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/valuetools/AlnafessahC20,
+  author    = {Ahmad S. Alnafessah and Giuliano Casale},
+  title     = {TRACK: Optimizing Artificial Neural Networks for Anomaly Detection in Spark Streaming Systems},
+  booktitle = {Proc. of VALUETOOLS},
+  pages     = {188--191},
+  year      = {2020},
+  doi       = {10.1145/3388831.3388860}
+}

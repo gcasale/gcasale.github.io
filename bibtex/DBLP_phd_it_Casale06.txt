@@ -1,0 +1,7 @@
+@phdthesis{DBLP:phd/it/Casale06,
+  author    = {Giuliano Casale},
+  title     = {The throughput analysis of product-form queueing networks},
+  school    = {Politecnico di Milano},
+  year      = {2006},
+  doi       = {https://opac.bncf.firenze.sbn.it/bncf-prod/resource?uri=BNI0025920}
+}

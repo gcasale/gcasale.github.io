@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/valuetools/KraftPCD09,
+  author    = {Stephan Kraft and Sergio Pacheco-Sanchez and Giuliano Casale and Stephen Dawson},
+  title     = {Estimating service resource consumption from response time measurements},
+  booktitle = {Proc. of VALUETOOLS},
+  pages     = {48},
+  year      = {2009},
+  doi       = {10.4108/ICST.VALUETOOLS2009.7526}
+}

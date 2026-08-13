@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/GiasHZCDW20,
+  author    = {Alim Ul Gias and André van Hoorn and Lulai Zhu and Giuliano Casale and Thomas F. Düllmann and Michael Wurster},
+  title     = {Performance Engineering for Microservices and Serverless Applications: The RADON Approach},
+  booktitle = {Proc. of ICPE Companion},
+  pages     = {46--49},
+  year      = {2020},
+  doi       = {10.1145/3375555.3383120}
+}

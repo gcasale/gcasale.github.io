@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/noms/DipietroBC18,
+  author    = {Salvatore Dipietro and Rajkumar Buyya and Giuliano Casale},
+  title     = {PAX: Partition-aware autoscaling for the Cassandra NoSQL database},
+  booktitle = {Proc. of NOMS},
+  pages     = {1--9},
+  year      = {2018},
+  doi       = {10.1109/NOMS.2018.8406271}
+}

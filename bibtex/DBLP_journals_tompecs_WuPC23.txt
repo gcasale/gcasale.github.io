@@ -1,0 +1,10 @@
+@article{DBLP:journals/tompecs/WuPC23,
+  author    = {Xiaohu Wu and Francesco De Pellegrini and Giuliano Casale},
+  title     = {Delay and Price Differentiation in Cloud Computing: A Service Model, Supporting Architectures, and Performance},
+  journal   = {ACM Trans. Model. Perform. Evaluation Comput. Syst.},
+  volume    = {8},
+  number    = {3},
+  pages     = {1--40},
+  year      = {2023},
+  doi       = {10.1145/3592852}
+}

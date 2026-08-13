@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/ipps/CasaleMS08,
+  author    = {Giuliano Casale and Ningfang Mi and Evgenia Smirni},
+  title     = {Versatile models of systems using map queueing networks},
+  booktitle = {Proc. of IPDPS},
+  pages     = {1--5},
+  year      = {2008},
+  doi       = {10.1109/IPDPS.2008.4536387}
+}

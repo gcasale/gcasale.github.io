@@ -1,0 +1,6 @@
+@inproceedings{casale2010productform,
+  author    = {Giuliano Casale and Peter G. Harrison and Maria Grazia Vigliotti},
+  title     = {Product-form approximation of tandem queues via matrix-geometric methods},
+  booktitle = {Proc. of NSMC 2010 workshop},
+  year      = {2010}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tnsm/TuliCJ23a,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {CILP: Co-Simulation-Based Imitation Learner for Dynamic Resource Provisioning in Cloud Computing Environments},
+  journal   = {IEEE Trans. Netw. Serv. Manag.},
+  volume    = {20},
+  number    = {4},
+  pages     = {4448--4460},
+  year      = {2023},
+  doi       = {10.1109/TNSM.2023.3268250}
+}

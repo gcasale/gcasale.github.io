@@ -1,0 +1,6 @@
+@article{sheldon2026diameterindependent,
+  author    = {Matthew Sheldon and Giuliano Casale},
+  title     = {Diameter-independent reinforcement learning for the control of state-dependent queues},
+  journal   = {Perform. Evaluation},
+  year      = {2026}
+}

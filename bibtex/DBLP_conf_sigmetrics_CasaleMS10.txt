@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/sigmetrics/CasaleMS10,
+  author    = {Giuliano Casale and Ningfang Mi and Evgenia Smirni},
+  title     = {CWS: a model-driven scheduling policy for correlated workloads},
+  booktitle = {Proc. of SIGMETRICS},
+  pages     = {251--262},
+  year      = {2010},
+  doi       = {10.1145/1811039.1811068}
+}

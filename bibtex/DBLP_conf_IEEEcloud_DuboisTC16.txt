@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/IEEEcloud/DuboisTC16,
+  author    = {Daniel J. Dubois and Catia Trubiani and Giuliano Casale},
+  title     = {Model-Driven Application Refactoring to Minimize Deployment Costs in Preemptible Cloud Resources},
+  booktitle = {Proc. of CLOUD},
+  pages     = {335--342},
+  year      = {2016},
+  doi       = {10.1109/CLOUD.2016.0052}
+}

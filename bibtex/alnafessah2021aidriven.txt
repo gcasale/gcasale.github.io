@@ -1,0 +1,8 @@
+@incollection{alnafessah2021aidriven,
+  author    = {Ahmad Alnafessah and Gabriele Russo Russo and Valeria Cardellini and Giuliano Casale and Francesco Lo Presti},
+  title     = {AI-driven performance management in data-intensive applications},
+  booktitle = {Communication Networks and Service Management in the Era of Artificial Intelligence and Machine Learning, Wiley-IEEE Press},
+  pages     = {199--222},
+  year      = {2021},
+  doi       = {10.1002/9781119675525.ch9}
+}

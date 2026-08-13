@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/synasc/WangC14,
+  author    = {Weikun Wang and Giuliano Casale},
+  title     = {Evaluating Weighted Round Robin Load Balancing for Cloud Web Services},
+  booktitle = {Proc. of SYNASC},
+  pages     = {393--400},
+  year      = {2014},
+  doi       = {10.1109/SYNASC.2014.59}
+}

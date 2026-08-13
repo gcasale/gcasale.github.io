@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/sigmetrics/CasaleMS08,
+  author    = {Giuliano Casale and Ningfang Mi and Evgenia Smirni},
+  title     = {Bound analysis of closed queueing networks with workload burstiness},
+  booktitle = {Proc. of SIGMETRICS},
+  pages     = {13--24},
+  year      = {2008},
+  doi       = {10.1145/1375457.1375460}
+}

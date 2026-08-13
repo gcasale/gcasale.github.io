@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/Casale08,
+  author    = {Giuliano Casale},
+  title     = {CoMoM: class-oriented evaluation of multiclass models},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {36},
+  number    = {2},
+  pages     = {134--136},
+  year      = {2008},
+  doi       = {10.1145/1453175.1453208}
+}

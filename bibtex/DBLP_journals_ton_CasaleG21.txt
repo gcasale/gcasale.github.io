@@ -1,0 +1,10 @@
+@article{DBLP:journals/ton/CasaleG21,
+  author    = {Giuliano Casale and Nicolas Gast},
+  title     = {Performance Analysis Methods for List-Based Caches With Non-Uniform Access},
+  journal   = {IEEE/ACM Trans. Netw.},
+  volume    = {29},
+  number    = {2},
+  pages     = {651--664},
+  year      = {2021},
+  doi       = {10.1109/TNET.2020.3042869}
+}

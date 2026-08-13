@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/IEEEcloud/ZhuGTC21,
+  author    = {Lulai Zhu and Giorgos Giotis and Vasilis Tountopoulos and Giuliano Casale},
+  title     = {RDOF: Deployment Optimization for Function as a Service},
+  booktitle = {Proc. of CLOUD},
+  pages     = {508--514},
+  year      = {2021},
+  doi       = {10.1109/CLOUD53861.2021.00066}
+}

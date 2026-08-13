@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/atal/SheldonPC24,
+  author    = {Matthew Sheldon and Dario Paccagnan and Giuliano Casale},
+  title     = {Cournot Queueing Games with Applications to Mobility Systems},
+  booktitle = {Proc. of AAMAS},
+  pages     = {2462--2464},
+  year      = {2024},
+  doi       = {https://dl.acm.org/doi/10.5555/3635637.3663194}
+}

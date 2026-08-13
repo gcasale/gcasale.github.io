@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/IEEEcloud/Pacheco-SanchezCSMPD11,
+  author    = {Sergio Pacheco-Sanchez and Giuliano Casale and Bryan W. Scotney and Sally I. McClean and Gerard P. Parr and Stephen Dawson},
+  title     = {Markovian Workload Characterization for QoS Prediction in the Cloud},
+  booktitle = {Proc. of IEEE CLOUD},
+  pages     = {147--154},
+  year      = {2011},
+  doi       = {10.1109/CLOUD.2011.100}
+}

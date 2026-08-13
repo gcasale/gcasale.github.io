@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/IEEEcloud/WenLCS15,
+  author    = {Jiawei Wen and Lei Lu and Giuliano Casale and Evgenia Smirni},
+  title     = {Less Can Be More: Micro-managing VMs in Amazon EC2},
+  booktitle = {Proc. of CLOUD},
+  pages     = {317--324},
+  year      = {2015},
+  doi       = {10.1109/CLOUD.2015.50}
+}

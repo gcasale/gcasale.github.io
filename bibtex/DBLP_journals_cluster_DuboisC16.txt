@@ -1,0 +1,10 @@
+@article{DBLP:journals/cluster/DuboisC16,
+  author    = {Daniel J. Dubois and Giuliano Casale},
+  title     = {OptiSpot: minimizing application deployment cost using spot cloud resources},
+  journal   = {Clust. Comput.},
+  volume    = {19},
+  number    = {2},
+  pages     = {893--909},
+  year      = {2016},
+  doi       = {10.1007/s10586-016-0568-7}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/cnsm/MolkaC15,
+  author    = {Karsten Molka and Giuliano Casale},
+  title     = {Experiments or simulation? A characterization of evaluation methods for in-memory databases},
+  booktitle = {Proc. of CNSM},
+  pages     = {201--209},
+  year      = {2015},
+  doi       = {10.1109/CNSM.2015.7367360}
+}

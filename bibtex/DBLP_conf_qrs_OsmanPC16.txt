@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/qrs/OsmanPC16,
+  author    = {Rasha Osman and Juan F. Pérez and Giuliano Casale},
+  title     = {Quantifying the Impact of Replication on the Quality-of-Service in Cloud Databases},
+  booktitle = {Proc. of QRS},
+  pages     = {286--297},
+  year      = {2016},
+  doi       = {10.1109/QRS.2016.40}
+}

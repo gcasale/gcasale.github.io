@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/wosp/CasaleS11,
+  author    = {Giuliano Casale and Giuseppe Serazzi},
+  title     = {Quantitative system evaluation with Java modeling tools},
+  booktitle = {Proc. of ICPE},
+  pages     = {449--454},
+  year      = {2011},
+  doi       = {10.1145/1958746.1958813}
+}

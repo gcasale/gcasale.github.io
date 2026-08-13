@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/synasc/PerezC13,
+  author    = {Juan F. Pérez and Giuliano Casale},
+  title     = {Assessing SLA Compliance from Palladio Component Models},
+  booktitle = {Proc. of SYNASC},
+  pages     = {409--416},
+  year      = {2013},
+  doi       = {10.1109/SYNASC.2013.60}
+}

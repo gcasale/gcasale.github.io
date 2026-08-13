@@ -1,0 +1,10 @@
+@article{DBLP:journals/tomacs/WangCS16,
+  author    = {Weikun Wang and Giuliano Casale and Charles Sutton},
+  title     = {A Bayesian Approach to Parameter Inference in Queueing Networks},
+  journal   = {ACM Trans. Model. Comput. Simul.},
+  volume    = {27},
+  number    = {1},
+  pages     = {2},
+  year      = {2016},
+  doi       = {10.1145/2893480}
+}

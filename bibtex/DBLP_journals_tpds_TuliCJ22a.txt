@@ -1,0 +1,10 @@
+@article{DBLP:journals/tpds/TuliCJ22a,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {GOSH: Task Scheduling Using Deep Surrogate Models in Fog Computing Environments},
+  journal   = {IEEE Trans. Parallel Distributed Syst.},
+  volume    = {33},
+  number    = {11},
+  pages     = {2821--2833},
+  year      = {2022},
+  doi       = {10.1109/TPDS.2021.3136672}
+}

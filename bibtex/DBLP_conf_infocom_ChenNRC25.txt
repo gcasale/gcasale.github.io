@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/infocom/ChenNRC25,
+  author    = {Yichong Chen and Zifeng Niu and Manuel Roveri and Giuliano Casale},
+  title     = {CEED: Collaborative Early Exit Neural Network Inference at the Edge},
+  booktitle = {Proc. of INFOCOM},
+  pages     = {1--10},
+  year      = {2025},
+  doi       = {10.1109/INFOCOM55648.2025.11044557}
+}

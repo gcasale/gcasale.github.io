@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/sigmetrics/Casale11,
+  author    = {Giuliano Casale},
+  title     = {Building accurate workload models using Markovian arrival processes},
+  booktitle = {Proc. of SIGMETRICS},
+  pages     = {357--358},
+  year      = {2011},
+  doi       = {10.1145/1993744.1993783}
+}

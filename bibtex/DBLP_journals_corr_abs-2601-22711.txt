@@ -1,0 +1,8 @@
+@article{DBLP:journals/corr/abs-2601-22711,
+  author    = {Matteo Gambella and Fabrizio Pittorino and Giuliano Casale and Manuel Roveri},
+  title     = {SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks},
+  journal   = {arXiv preprint},
+  volume    = {abs/2601.22711},
+  year      = {2026},
+  doi       = {10.48550/arXiv.2601.22711}
+}

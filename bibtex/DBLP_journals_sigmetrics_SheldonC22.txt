@@ -1,0 +1,10 @@
+@article{DBLP:journals/sigmetrics/SheldonC22,
+  author    = {Matthew Sheldon and Giuliano Casale},
+  title     = {TauSSA: Simulating Markovian Queueing Networks with Tau Leaping},
+  journal   = {SIGMETRICS Perform. Evaluation Rev.},
+  volume    = {49},
+  number    = {4},
+  pages     = {70--75},
+  year      = {2022},
+  doi       = {10.1145/3543146.3543162}
+}

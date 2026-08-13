@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/MolkaC16,
+  author    = {Karsten Molka and Giuliano Casale},
+  title     = {Efficient Memory Occupancy Models for In-memory Databases},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {430--432},
+  year      = {2016},
+  doi       = {10.1109/MASCOTS.2016.56}
+}

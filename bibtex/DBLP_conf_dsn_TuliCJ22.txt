@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/dsn/TuliCJ22,
+  author    = {Shreshth Tuli and Giuliano Casale and Nicholas R. Jennings},
+  title     = {CAROL: Confidence-Aware Resilience Model for Edge Federations},
+  booktitle = {Proc. of DSN},
+  pages     = {28--40},
+  year      = {2022},
+  doi       = {10.1109/DSN53405.2022.00016}
+}

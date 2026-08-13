@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/anss/BertoliCS07,
+  author    = {Marco Bertoli and Giuliano Casale and Giuseppe Serazzi},
+  title     = {The JMT Simulator for Performance Evaluation of Non-Product-Form Queueing Networks},
+  booktitle = {Proc. of Annual Simulation Symposium},
+  pages     = {3--10},
+  year      = {2007},
+  doi       = {10.1109/ANSS.2007.41}
+}

@@ -1,0 +1,10 @@
+@article{DBLP:journals/tr/PerezC17,
+  author    = {Juan F. Pérez and Giuliano Casale},
+  title     = {Line: Evaluating Software Applications in Unreliable Environments},
+  journal   = {IEEE Trans. Reliab.},
+  volume    = {66},
+  number    = {3},
+  pages     = {837--853},
+  year      = {2017},
+  doi       = {10.1109/TR.2017.2655505}
+}

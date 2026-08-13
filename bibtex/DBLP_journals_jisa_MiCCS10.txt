@@ -1,0 +1,10 @@
+@article{DBLP:journals/jisa/MiCCS10,
+  author    = {Ningfang Mi and Giuliano Casale and Ludmila Cherkasova and Evgenia Smirni},
+  title     = {Sizing multi-tier systems with temporal dependence: benchmarks and analytic models},
+  journal   = {J. Internet Serv. Appl.},
+  volume    = {1},
+  number    = {2},
+  pages     = {117--134},
+  year      = {2010},
+  doi       = {10.1007/s13174-010-0012-9}
+}

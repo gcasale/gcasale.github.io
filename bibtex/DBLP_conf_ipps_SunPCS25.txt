@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/ipps/SunPCS25,
+  author    = {Bowen Sun and Riccardo Pinciroli and Giuliano Casale and Evgenia Smirni},
+  title     = {DeepBAT: Performance and Cost Optimization of Serverless Inference Using Transformers},
+  booktitle = {Proc. of IPDPS},
+  pages     = {335--346},
+  year      = {2025},
+  doi       = {10.1109/IPDPS64566.2025.00037}
+}

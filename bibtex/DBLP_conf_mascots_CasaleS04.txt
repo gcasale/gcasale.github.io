@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/mascots/CasaleS04,
+  author    = {Giuliano Casale and Giuseppe Serazzi},
+  title     = {Bottlenecks Identification in Multiclass Queueing Networks Using Convex Polytopes},
+  booktitle = {Proc. of MASCOTS},
+  pages     = {223--230},
+  year      = {2004},
+  doi       = {10.1109/MASCOT.2004.1348242}
+}

@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/dsn/PersoneCS11,
+  author    = {Vittoria De Nitto Persone and Giuliano Casale and Evgenia Smirni},
+  title     = {Approximate analysis of blocking queueing networks with temporal dependence},
+  booktitle = {Proc. of DSN},
+  pages     = {574--585},
+  year      = {2011},
+  doi       = {10.1109/DSN.2011.5958269}
+}

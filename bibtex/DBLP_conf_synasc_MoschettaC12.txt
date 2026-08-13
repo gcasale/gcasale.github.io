@@ -1,0 +1,8 @@
+@inproceedings{DBLP:conf/synasc/MoschettaC12,
+  author    = {Jean Moschetta and Giuliano Casale},
+  title     = {OFBench: An Enterprise Application Benchmark for Cloud Resource Management Studies},
+  booktitle = {Proc. of SYNASC},
+  pages     = {393--399},
+  year      = {2012},
+  doi       = {10.1109/SYNASC.2012.39}
+}

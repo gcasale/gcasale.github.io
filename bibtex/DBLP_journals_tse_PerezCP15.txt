@@ -1,0 +1,10 @@
+@article{DBLP:journals/tse/PerezCP15,
+  author    = {Juan F. Pérez and Giuliano Casale and Sergio Pacheco-Sanchez},
+  title     = {Estimating Computational Requirements in Multi-Threaded Applications},
+  journal   = {IEEE Trans. Software Eng.},
+  volume    = {41},
+  number    = {3},
+  pages     = {264--278},
+  year      = {2015},
+  doi       = {10.1109/TSE.2014.2363472}
+}

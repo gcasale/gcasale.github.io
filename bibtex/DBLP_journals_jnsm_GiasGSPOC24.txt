@@ -1,0 +1,10 @@
+@article{DBLP:journals/jnsm/GiasGSPOC24,
+  author    = {Alim Ul Gias and Yicheng Gao and Matthew Sheldon and José A. Perusquía and Owen O'Brien and Giuliano Casale},
+  title     = {SampleHST-X: A Point and Collective Anomaly-Aware Trace Sampling Pipeline with Approximate Half Space Trees},
+  journal   = {J. Netw. Syst. Manag.},
+  volume    = {32},
+  number    = {3},
+  pages     = {44},
+  year      = {2024},
+  doi       = {10.1007/s10922-024-09818-8}
+}
