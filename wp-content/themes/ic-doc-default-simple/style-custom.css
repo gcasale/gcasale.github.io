@@ -24,18 +24,9 @@ be triggered by right clicking on the element you'd would like to target.
 Be sure to end each line with a semi-colon and make sure each openening brace is followed by a closing 
 brace after the properties have been declared.
 
-* Use with caution - incorrect syntax or invalid selectors may cause unexpected results, invalid 
+* Use with caution - incorrect syntax or invalid selectors may cause unexpected results, invalid
 syntax will be highlighted below in Red. */
 
-
-
-
-
-
-
-
-
-
-
-
-
+#header #nav-menu-item-2794 {
+	display: none;
+}
