@@ -1,6 +1,0 @@
-@inproceedings{casale2026a,
-  author    = {Giuliano Casale},
-  title     = {A family of multiclass LCFS networks with a novel product-form solution},
-  booktitle = {Proc. of European Conference on Queueing Theory (ECQT)},
-  year      = {2026}
-}
